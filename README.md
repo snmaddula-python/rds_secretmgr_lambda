@@ -1,0 +1,1 @@
+# rds_secretmgr_lambda
